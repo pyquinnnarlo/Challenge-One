@@ -1,8 +1,5 @@
 # Challenge One
 
-This project is part of a challenge to test me software skill using knowledge I've gain overtime.
+This project is part of a challenge to keep myself coding.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## React js 7 React Three Fiber
